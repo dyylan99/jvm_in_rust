@@ -8,7 +8,8 @@ edition = "2021"
 members = [
     "cho1_cmd",
     "cho2_classpath"
-, "cho3_classfile"]
+, "cho3_classfile",
+"cho4_runtime_data_area"]
 
 [dependencies]
 
